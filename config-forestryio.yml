@@ -19,7 +19,7 @@ author: Buildiful
 email: 
 description: Modernizing emergency dispatch.
 baseurl: "/"
-url: https://rescue.care
+url: ''
 defaults:
 - scope:
     path: ''
