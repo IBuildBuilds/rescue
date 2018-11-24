@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Home
+title: ''
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: simple-header
