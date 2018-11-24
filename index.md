@@ -18,9 +18,9 @@ page_sections:
     url: "#signup"
     button_text: Sign Up
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2018/11/24/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
 - template: signup-bar
   block: cta-bar
   content: Get notified when <strong>Rescue</strong> is ready to help protect you
