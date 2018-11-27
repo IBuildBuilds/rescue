@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: ''
-date: 2017-11-22 23:00:00 +0000
+date: ''
 page_sections:
 - template: simple-header
   block: header-3
@@ -12,20 +12,16 @@ page_sections:
   content: Technology has come a long way over the past few decades.<br><br>We mostly
     don't, for example, use <strong>rotary dial phones</strong> to make emergency
     calls anymore.<br><br>But can modernization go even further?<br><br>The good news
-    is, we are working hard on it.
+    is, we are working hard on it.<br><br>Get notified when <strong>Rescue</strong>
+    is ready to help protect you and your loved ones.
   cta:
-    enabled: false
-    url: "#signup"
+    enabled: true
+    url: https://buildiful.typeform.com/to/a2LSxU
     button_text: Sign Up
   image:
     image: "/uploads/2018/11/24/product-shot-1.png"
     alt_text: Product Shot
   background_image: ''
-- template: signup-bar
-  block: cta-bar
-  content: Get notified when <strong>Rescue</strong> is ready to help protect you
-    and your loved ones.
-  email_recipient: buildiful.media@gmail.com
 - template: simple-footer
   block: footer-1
   content: Rescue - a <a href="https://buildiful.com" title="Buildiful">Buildiful</a>
